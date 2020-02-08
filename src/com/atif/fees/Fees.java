@@ -4,6 +4,7 @@ public class Fees {
 	
 	private int dfees;
 	private String cash;
+	private String atm;
 	
 	
 	public int getDfees() {
