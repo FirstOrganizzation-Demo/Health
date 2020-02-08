@@ -5,7 +5,6 @@ public class Doctor {
 
 	private int no;
 	private String name;
-	private String place;
 	
 	
 	public int getNo() {
