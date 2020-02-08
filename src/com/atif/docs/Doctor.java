@@ -5,6 +5,7 @@ public class Doctor {
 
 	private int no;
 	private String name;
+	private String phno;
 	
 	
 	public int getNo() {
@@ -19,10 +20,13 @@ public class Doctor {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getPlace() {
-		return place;
+	public String getPhno() {
+		return phno;
 	}
-	public void setPlace(String place) {
-		this.place = place;
+	public void setPhno(String phno) {
+		this.phno = phno;
 	}
+	
+	
+	
 }
